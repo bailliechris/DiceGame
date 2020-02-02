@@ -1,0 +1,13 @@
+C:\Users\chris\source\repos\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\chris\source\repos\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\chris\source\repos\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\chris\source\repos\DiceGame\obj\Debug\DiceGame.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\DiceGame\obj\Debug\DiceGame.Properties.Resources.resources
+C:\Users\chris\source\repos\DiceGame\obj\Debug\DiceGame.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\chris\source\repos\DiceGame\obj\Debug\DiceGame.pdb
+C:\Users\chris\source\repos\DiceGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\source\repos\DiceGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\source\repos\DiceGame\obj\Debug\DiceGame.csproj.CopyComplete
+C:\Users\chris\source\repos\DiceGame\obj\Debug\DiceGame.Form1.resources
+C:\Users\chris\source\repos\DiceGame\obj\Debug\DiceGame.Form2.resources
